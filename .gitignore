@@ -19,3 +19,5 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+*.challenge01_flutter_bootcamp_dio_pro_iml
+*.idea/
